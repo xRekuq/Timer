@@ -1,0 +1,43 @@
+.timer-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .timer-container input {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .timer-container select {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .timer-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .timer-container button:hover {
+    background-color: #0d8bf5;
+  }
+  
+  .timer-container div {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
